@@ -1,13 +1,21 @@
 "Book Recommender System " 
+
+
 "A content-based book recommendation system built using Python and scikit-learn." 
-"" 
-"## Features" 
-"- Filters active users and popular books" 
+
+
+
+
+"Features" 
+- Filters active users and popular books" 
 "- Uses KNN with cosine similarity" 
-"- Streamlit frontend for UI" 
-"" 
-"## Run it locally:" 
+"- Streamlit frontend for UI"
+
+
+"Run it locally:" 
 "bash" 
 "streamlit run app.py"
-"## Creator" 
+
+
+"Creator" 
 "- GitHub: [Vishwa231103](https://github.com/Vishwa231103)" 
